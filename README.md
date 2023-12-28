@@ -9,7 +9,7 @@ This is a Python implementation of a neural network package developed from scrat
 - Clone the repository using:  
 `git clone https://github.com/eranda-ihalagedara/neural-network-from-scratch.git`  
 or  
-download the repository: [machine-learning-projects](https://github.com/eranda-ihalagedara/neural-network-from-scratch)
+download the repository: [neural-network-from-scratch](https://github.com/eranda-ihalagedara/neural-network-from-scratch)
 
 - Copy the folder `NN` to your working directory.
 - Import the package, build your model, and train with your data as in following code snippet:
